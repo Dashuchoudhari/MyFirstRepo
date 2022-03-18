@@ -1,0 +1,5 @@
+#push all new files
+	git add .
+	git commit -m "comment"
+	git push
+--------------------------------------
